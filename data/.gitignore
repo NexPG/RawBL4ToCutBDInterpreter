@@ -1,2 +1,3 @@
-extracted/
-raw_ncs/
+ncs_aggregated_latest/
+ncs_raw_bin/
+ncs_raw_json/
